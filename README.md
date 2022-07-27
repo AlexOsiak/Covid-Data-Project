@@ -1,2 +1,2 @@
-# Covid-Data-Project
-'Covid data' is the first project combining SQL exploration and Tableau visualization that I have accomplished. The data I used to create this project comes from https://ourworldindata.org/covid-deaths 
+# SQL+Tableau+Covid Data
+SQL-Tableau-Project is the first project combining SQL exploration and Tableau visualization that I have accomplished. The covid data that I used to create this project comes from https://ourworldindata.org/covid-deaths.
